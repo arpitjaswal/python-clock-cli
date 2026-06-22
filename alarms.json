@@ -1,0 +1,29 @@
+[
+  {
+    "time": "05:52",
+    "label": "tktk",
+    "repeat": "once",
+    "enabled": true,
+    "id": "0443c715",
+    "last_fired": null,
+    "date": null
+  },
+  {
+    "time": "06:01",
+    "label": "kml",
+    "repeat": "once",
+    "enabled": true,
+    "id": "b4a15880",
+    "last_fired": "2026-06-22 06:01",
+    "date": null
+  },
+  {
+    "time": "06:05",
+    "label": "ggg",
+    "repeat": "once",
+    "enabled": true,
+    "id": "9b5832c5",
+    "last_fired": "2026-06-22 06:05",
+    "date": null
+  }
+]

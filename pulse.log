@@ -1,0 +1,62 @@
+{"ts": "2026-06-22T05:40:36-04:00", "event": "created", "alarm_id": "b990a9e8", "time": "05:41", "repeat": "once", "label": "testing", "date": null}
+{"ts": "2026-06-22T05:41:00-04:00", "event": "fired", "alarm_id": "b990a9e8", "target": "2026-06-22 05:41:00", "label": "testing"}
+{"ts": "2026-06-22T05:41:17-04:00", "event": "challenge_failed", "alarm_id": "b990a9e8", "level": 0}
+{"ts": "2026-06-22T05:41:22-04:00", "event": "challenge_failed", "alarm_id": "b990a9e8", "level": 0}
+{"ts": "2026-06-22T05:41:27-04:00", "event": "challenge_failed", "alarm_id": "b990a9e8", "level": 0}
+{"ts": "2026-06-22T05:41:29-04:00", "event": "challenge_failed", "alarm_id": "b990a9e8", "level": 0}
+{"ts": "2026-06-22T05:41:31-04:00", "event": "challenge_failed", "alarm_id": "b990a9e8", "level": 0}
+{"ts": "2026-06-22T05:41:33-04:00", "event": "challenge_failed", "alarm_id": "b990a9e8", "level": 0}
+{"ts": "2026-06-22T05:41:40-04:00", "event": "challenge_failed", "alarm_id": "b990a9e8", "level": 1}
+{"ts": "2026-06-22T05:41:53-04:00", "event": "dismissed", "alarm_id": "b990a9e8", "level": 1, "ringing_s": 37}
+{"ts": "2026-06-22T05:41:53-04:00", "event": "clock_jump", "alarm_id": "", "seconds": 5.8, "new_offset_min": -240}
+{"ts": "2026-06-22T05:42:07-04:00", "event": "deleted", "alarm_id": "b990a9e8"}
+{"ts": "2026-06-22T05:42:29-04:00", "event": "created", "alarm_id": "2b34609a", "time": "05:43", "repeat": "once", "label": "time", "date": null}
+{"ts": "2026-06-22T05:43:00-04:00", "event": "created", "alarm_id": "b1a57fa7", "time": "12:44", "repeat": "daily", "label": "tet", "date": null}
+{"ts": "2026-06-22T05:43:00-04:00", "event": "fired", "alarm_id": "2b34609a", "target": "2026-06-22 05:43:00", "label": "time"}
+{"ts": "2026-06-22T05:43:06-04:00", "event": "dismissed", "alarm_id": "2b34609a", "level": 0, "ringing_s": 0}
+{"ts": "2026-06-22T05:50:48-04:00", "event": "armed", "alarm_id": "2b34609a", "time": "05:43", "repeat": "once"}
+{"ts": "2026-06-22T05:50:48-04:00", "event": "armed", "alarm_id": "b1a57fa7", "time": "12:44", "repeat": "daily"}
+{"ts": "2026-06-22T05:51:54-04:00", "event": "disable", "alarm_id": "2b34609a"}
+{"ts": "2026-06-22T05:51:59-04:00", "event": "disable", "alarm_id": "b1a57fa7"}
+{"ts": "2026-06-22T05:52:00-04:00", "event": "enable", "alarm_id": "b1a57fa7"}
+{"ts": "2026-06-22T05:52:02-04:00", "event": "enable", "alarm_id": "2b34609a"}
+{"ts": "2026-06-22T05:52:05-04:00", "event": "disable", "alarm_id": "b1a57fa7"}
+{"ts": "2026-06-22T05:52:05-04:00", "event": "disable", "alarm_id": "2b34609a"}
+{"ts": "2026-06-22T05:52:09-04:00", "event": "enable", "alarm_id": "b1a57fa7"}
+{"ts": "2026-06-22T05:52:10-04:00", "event": "enable", "alarm_id": "2b34609a"}
+{"ts": "2026-06-22T05:52:18-04:00", "event": "deleted", "alarm_id": "b1a57fa7"}
+{"ts": "2026-06-22T05:52:20-04:00", "event": "deleted", "alarm_id": "2b34609a"}
+{"ts": "2026-06-22T05:52:35-04:00", "event": "created", "alarm_id": "0443c715", "time": "05:52", "repeat": "once", "label": "tktk", "date": null}
+{"ts": "2026-06-22T05:54:03-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T05:56:32-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T05:56:58-04:00", "event": "clock_jump", "alarm_id": "", "seconds": 3.0, "new_offset_min": -240}
+{"ts": "2026-06-22T06:00:58-04:00", "event": "created", "alarm_id": "b4a15880", "time": "06:01", "repeat": "once", "label": "kml", "date": null}
+{"ts": "2026-06-22T06:01:00-04:00", "event": "fired", "alarm_id": "b4a15880", "target": "2026-06-22 06:01:00", "label": "kml"}
+{"ts": "2026-06-22T06:01:08-04:00", "event": "challenge_failed", "alarm_id": "b4a15880", "level": 0}
+{"ts": "2026-06-22T06:01:10-04:00", "event": "challenge_failed", "alarm_id": "b4a15880", "level": 0}
+{"ts": "2026-06-22T06:01:34-04:00", "event": "dismissed", "alarm_id": "b4a15880", "level": 0, "ringing_s": 7}
+{"ts": "2026-06-22T06:01:49-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T06:01:49-04:00", "event": "armed", "alarm_id": "b4a15880", "time": "06:01", "repeat": "once"}
+{"ts": "2026-06-22T06:02:08-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T06:02:08-04:00", "event": "armed", "alarm_id": "b4a15880", "time": "06:01", "repeat": "once"}
+{"ts": "2026-06-22T06:02:17-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T06:02:17-04:00", "event": "armed", "alarm_id": "b4a15880", "time": "06:01", "repeat": "once"}
+{"ts": "2026-06-22T06:03:01-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T06:03:01-04:00", "event": "armed", "alarm_id": "b4a15880", "time": "06:01", "repeat": "once"}
+{"ts": "2026-06-22T06:03:42-04:00", "event": "clock_jump", "alarm_id": "", "seconds": 4.3, "new_offset_min": -240}
+{"ts": "2026-06-22T06:03:55-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T06:03:55-04:00", "event": "armed", "alarm_id": "b4a15880", "time": "06:01", "repeat": "once"}
+{"ts": "2026-06-22T06:04:10-04:00", "event": "created", "alarm_id": "9b5832c5", "time": "06:05", "repeat": "once", "label": "ggg", "date": null}
+{"ts": "2026-06-22T06:04:21-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T06:04:21-04:00", "event": "armed", "alarm_id": "b4a15880", "time": "06:01", "repeat": "once"}
+{"ts": "2026-06-22T06:04:21-04:00", "event": "armed", "alarm_id": "9b5832c5", "time": "06:05", "repeat": "once"}
+{"ts": "2026-06-22T06:05:00-04:00", "event": "fired", "alarm_id": "9b5832c5", "target": "2026-06-22 06:05:00", "label": "ggg"}
+{"ts": "2026-06-22T06:05:32-04:00", "event": "dismissed", "alarm_id": "9b5832c5", "level": 0, "ringing_s": 0}
+{"ts": "2026-06-22T06:05:46-04:00", "event": "armed", "alarm_id": "0443c715", "time": "05:52", "repeat": "once"}
+{"ts": "2026-06-22T06:05:46-04:00", "event": "armed", "alarm_id": "b4a15880", "time": "06:01", "repeat": "once"}
+{"ts": "2026-06-22T06:05:46-04:00", "event": "armed", "alarm_id": "9b5832c5", "time": "06:05", "repeat": "once"}
+{"ts": "2026-06-22T06:13:41-04:00", "event": "clock_jump", "alarm_id": "", "seconds": 3.2, "new_offset_min": -240}
+{"ts": "2026-06-22T06:14:17-04:00", "event": "clock_jump", "alarm_id": "", "seconds": 3.6, "new_offset_min": -240}
+{"ts": "2026-06-22T06:14:53-04:00", "event": "clock_jump", "alarm_id": "", "seconds": 3.6, "new_offset_min": -240}
+{"ts": "2026-06-22T06:15:28-04:00", "event": "clock_jump", "alarm_id": "", "seconds": 3.6, "new_offset_min": -240}
+{"ts": "2026-06-22T06:16:04-04:00", "event": "clock_jump", "alarm_id": "", "seconds": 3.6, "new_offset_min": -240}
